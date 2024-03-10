@@ -11,7 +11,7 @@ Current limitations (future implementations):
 -no option to show wind direction
 Languages used:
 -HTML5 ,
--SCSS ,
+-CSS ,
 -JavaScript
 
 APIs used:
