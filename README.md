@@ -5,13 +5,10 @@ Scope of the WeatherAppWidget:
 +current temperature (celsius), humidity (%) and wind speed (km/h) of location
 +search every city in the world and get instant, live weather information
 +changing background images according to location search (for visual appeal)
-
 Current limitations (future implementations):
 -no option to display local time (yet)
 -no option to show time of sunrise/sunset
 -no option to show wind direction
-
-
 Languages used:
 -HTML 5
 -SCSS
