@@ -10,8 +10,8 @@ Current limitations (future implementations):
 -no option to show time of sunrise/sunset
 -no option to show wind direction
 Languages used:
--HTML 5
--SCSS
+-HTML5 ,
+-SCSS ,
 -JavaScript
 
 APIs used:
